@@ -1,6 +1,8 @@
 # <p align=center> Squishy 6094 </p>
 I'm a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
 
+![My Stats](https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark)
+
 https://squishy6094.github.io/
 
 <!--
