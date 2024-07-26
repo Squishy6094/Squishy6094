@@ -1,9 +1,11 @@
 # <p align=center> Squishy 6094 </p>
-I'm a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
+### I'm a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
+
+### [Squishy Site](https://squishy6094.github.io/)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark)
 
-https://squishy6094.github.io/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishy6094&layout=compact)
 
 <!--
 **Squishy6094/Squishy6094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
