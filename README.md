@@ -1,11 +1,14 @@
 # <p align=center> Squishy 6094 </p>
-### I'm a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
+Hii, I'm Squishy! a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
 
-### [Squishy Site](https://squishy6094.github.io/)
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark" style="height: 250px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishy6094&hide=c,makefile&theme=dark" style="height: 250px">
+</p>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishy6094&layout=compact)
+## <p align=center> My Projects </p>
+| Character Select | [CS] Squishy |
+| --- | --- |
+| <img src="https://github.com/Squishy6094/character-select-coop/raw/main/images/menu-preview.png" style="height: 200px"> | <img src="https://github.com/Squishy6094/char-select-squishy/blob/main/images/birthday-yuri.png?raw=true" style="height: 200px"> |
 
 <!--
 **Squishy6094/Squishy6094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
