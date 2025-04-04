@@ -1,11 +1,11 @@
-# <p align=center> Squishy 6094 </p>
-Hii, I'm Squishy! a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
+# Squishy 6094 </p>
 
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark" style="height: 250px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishy6094&hide=c,makefile&theme=dark" style="height: 250px">
+Hii, I'm Squishy! a Mod Developer for [SM64CoopDX](https://sm64coopdx.com), working closely with the DX Team to get the best mods out there!
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=squishy6094&show_icons=true&theme=dark" style="height: 200px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squishy6094&hide=c,makefile&theme=dark" style="height: 200px">
 </p>
 
-## <p align=center> My Projects </p>
+## My Projects </p>
 | Character Select | [CS] Squishy |
 | --- | --- |
 | <img src="https://github.com/Squishy6094/character-select-coop/raw/main/images/menu-preview.png" style="height: 200px"> | <img src="https://github.com/Squishy6094/char-select-squishy/blob/main/images/birthday-yuri.png?raw=true" style="height: 200px"> |
